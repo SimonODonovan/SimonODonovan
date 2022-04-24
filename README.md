@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **contact.sodonovan@gmail.com**
 
-- 📄 Know about my experiences [https://sodonovandev.netlify.app/public/Simon%20O'Donovan%20-%20Software_Engineer%20-%20Resume.pdf](https://sodonovondev.netlify.app/resume)
+- 📄 Know about my experiences [https://sodonovondev.netlify.app/resume](https://sodonovandev.netlify.app/public/Simon%20O'Donovan%20-%20Software_Engineer%20-%20Resume.pdf)
 
 - 🚀 About Me
 <p align="left">I love finding solutions!</p>
