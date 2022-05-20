@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A passionate software engineer from Ireland</h3>
 
-- 👨‍💻 Come see my projects at [https://simonodonovon.netlify.app/](https://simonodonovon.netlify.app/)
+- 👨‍💻 Come see my projects at [https://simonodonovan.netlify.app/](https://simonodonovan.netlify.app/)
 
 - 📫 How to reach me **contact.sodonovan@gmail.com**
 
-- 📄 Know about my experiences [https://simonodonovon.netlify.app/resume](https://simonodonovan.netlify.app/public/Simon%20O'Donovan%20-%20Software_Engineer%20-%20Resume.pdf)
+- 📄 Know about my experiences [https://simonodonovan.netlify.app/resume](https://simonodonovan.netlify.app/public/Simon%20O'Donovan%20-%20Software_Engineer%20-%20Resume.pdf)
 
 - 🚀 About Me
 <p align="left">I love finding solutions!</p>
